@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tuningfolk)](https://github.com/tuningfolk/tuningfolk)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tuningfolk&theme=dracula)](https://github.com/tuningfolk/tuningfolk)
 
 <!--
 **tuningfolk/tuningfolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
